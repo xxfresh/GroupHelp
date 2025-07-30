@@ -1,6 +1,6 @@
 {
-    "botToken" : "your-bot-token",
-    "botStaff" : [ "361908469" ],
+    "botToken" : "8285734302:AAEpPjaB3FDyo2XdpHTnRb5IsMrmdM9iqqs",
+    "botStaff" : [ "1889545520" ],
     "deleteChatDataAfterBotRemove" : false,
     "overwriteChatDataIfReAddedToGroup" : false,
     "allowExternalApi" : true,
